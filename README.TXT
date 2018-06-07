@@ -1,3 +1,11 @@
+Note
+====
+
+This is an unofficial mirror of WiringPi to support ports (Go/etc).
+
+Please do not email Gordon if you have issues, he will not be able to help.
+
+Pull-requests are not currently accepted, since this is a mirror.
 
 wiringPi README
 ===============
